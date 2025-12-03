@@ -2,7 +2,7 @@
 -  <strong>Longlong Li</strong>, Yipeng Zhang, Guanghui Wang and Kelin Xia*. Kolmogorov-Arnold Graph Neural Networks for Molecular Property Prediction.
   <strong>Nature Machine Intelligence (2025)</strong>. [[Paper]](https://www.nature.com/articles/s42256-025-01087-7)
 
-- Haixia Hu., ..., <strong>Longlong Li (15/33)</strong>, ..., HangYin*. Revealing electron transport connectivity as an important factor influencing stability of organic solar cells.
+- Laihao Ding, ..., <strong>Wenling Zhou (15/33)</strong>, ..., HangYin*. Revealing electron transport connectivity as an important factor influencing stability of organic solar cells.
   <strong>Nature Communications (2025)</strong>. [[Paper]](https://www.nature.com/articles/s41467-025-60599-3)
 
 - Yipeng Zhang, <strong>Longlong Li</strong>, and Kelin Xia*. Rhomboid Tiling for Geometric Graph Deep Learning.
