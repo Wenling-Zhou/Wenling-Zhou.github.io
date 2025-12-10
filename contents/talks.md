@@ -1,6 +1,3 @@
 ### Talks
 
-- *2025*, **Invited Talk**, “Topological Deep Learning for Molecular Graphs”, NTU SPMS Seminar, Singapore.
-- *2024*, **Conference Talk**, “Path-Complex Neural Networks”, ICML GRaM Workshop.
-- *2023*, **Invited Talk**, “Multi-Scale Harmonic Graph Neural Networks”, SDU Data Science Forum.
-- *2022*, **Seminar**, “Graph Neural Networks for Molecular Property Prediction”.
+- *2025*, **Invited Talk**, “Consecutive odd cycles in graphs of given minimum degree”, 2025 Academic Annual Conference of the Graph Theory and Combinatorics Branch, Operations Research Society of China (ORSC), Yantai, China.
