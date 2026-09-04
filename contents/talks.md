@@ -1,0 +1,12 @@
+### Talks
+
+- *2025*, **Invited Talk**, “Degree conditions for spanning expansion hypertrees”, 2025 Cross-Strait Conference on Graph Theory and Combinatorics, Hangzhou, China.
+- *2025*, **Invited Talk**, “Consecutive odd cycles in graphs of given minimum degree”, 2025 Academic Annual Conference of the Graph Theory and Combinatorics Branch, Operations Research Society of China (ORSC), Yantai, China.
+- *2024*, **Contributed Talk**, “Tiling multipartite hypergraphs in quasi-random hypergraphs”, 11th National Conference on Combinatorics and Graph Theory, China.
+- *2022*, **Invited Talk (Online)**, “Integer colorings with no rainbow k-term arithmetic”, Invited by Prof. Li Liu, Qufu Normal University, China.
+- *2021*, **Contributed Talk (Online)**, “Integer colorings with no rainbow k-term arithmetic”, Workshop on Coloring and Extremal Graph Theory.
+- *2021*, **Contributed Talk (Online)**, “F-factors in quasi-random hypergraphs”, 2021 Extremal Hypergraphs Workshop.
+- *2021*, **Contributed Talk (Online)**, “The Turán problems of directed paths and cycles”, 11th Cross-Strait Conference on Graph Theory and Combinatorics.
+- *2021*, **Contributed Talk**, “Integer colorings with forbidden rainbow sums”, 12th Annual Conference on Computational Mathematics of the Chinese Mathematical Society (CM2021), Guilin, China.
+- *2020*, **Contributed Talk**, “On the maximum number of integer colorings with forbidden rainbow sums”, 2020 Doctoral Forum on Graph Theory and Combinatorial Optimization, Nankai University, Tianjin, China.
+- *2019*, **Contributed Talk**, “Large rainbow matchings in edge-colored graphs with given average color degree”, 27th British Combinatorial Conference (BCC), University of Birmingham, UK.
