@@ -7,7 +7,7 @@ I have obtained my Ph.D. in Mathematics from Shandong University and Université
 [Google Scholar Profile - Wenling Zhou](https://scholar.google.com/citations?user=3zPUmmgAAAAJ&hl=en)
 
 ### Contact
-- **Email:** gracezhou[at]sdu.edu.cn
+- **Email:** gracezhou@sdu.edu.cn
   
 ### Research Interests
 My main research activities focus on the extremal graph theory.
