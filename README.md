@@ -1,2 +1,5 @@
-# Wenling-Zhou.github.io
-Personal homepage of Wenling Zhou
+# Personal Academic Website
+
+This repository hosts my personal academic website.
+
+Website: [https://wenling-zhou.github.io/]
