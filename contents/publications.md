@@ -10,11 +10,9 @@
 - Hao Lin, Guowei Sun, Guanghui Wang and <strong>Wenling Zhou* </strong>.  Uniform Tur\'an densities of -uniform hypergraphs.
   [[arXiv]](https://arxiv.org/abs/2605.15105)
 #### Published
-- Tong Li, Guanghui Wang and <strong>Wenling Zhou* </strong>.  A survey on rainbow matchings in graphs and hypergraphs.
-  <strong> Operations Research Transactions (2019)</strong>. [[Paper]](https://www.ort.shu.edu.cn/EN/Y2019/V23/I3/77)
+1. Tong Li, Guanghui Wang and <strong>Wenling Zhou*</strong>. [A survey on rainbow matchings in graphs and hypergraphs](https://www.ort.shu.edu.cn/EN/Y2019/V23/I3/77). <strong> Operations Research Transactions </strong> (2019).
 
-- Hao Lin, Guanghui Wang and <strong>Wenling Zhou* </strong>.  Integer colorings with no rainbow $k$-term arithmetic progression.
-  <strong>European Journal of Combinatorics (2022)</strong>. [[Paper]](https://doi.org/10.1016/j.ejc.2022.103547)
+2. Hao Lin, Guanghui Wang and <strong>Wenling Zhou*</strong>. [Integer colorings with no rainbow $k$-term arithmetic progression](https://doi.org/10.1016/j.ejc.2022.103547). <strong>European Journal of Combinatorics</strong>  (2022).
 
 - Laihao Ding, Jie Han*, Shumin Sun, Guanghui Wang and <strong>Wenling Zhou</strong>. $F$-factors in Quasi-random Hypergraphs. <strong>Journal of the London Mathematical Society, 106(3): 1810-1843 (2022)</strong>. [[Paper]](https://doi.org/10.1112/jlms.12611)
 
