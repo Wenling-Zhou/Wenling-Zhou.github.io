@@ -6,6 +6,5 @@
 
 - [Uniform Turán densities of $k$-uniform hypergraphs](https://arxiv.org/abs/2605.15105). Hao Lin, Guowei Sun, Guanghui Wang and <strong>Wenling Zhou* </strong>.
 
-- [Minimum \(\ell\)-degree Tur\'an spectra and finite forbidden subfamilies]https://github.com/Wenling-Zhou/Wenling-Zhou.github.io/blob/main/preprint%20paper/Minimum%20l-degree%20Tur'an%20spectra%20and%20finite%20forbidden%20subfamilies.pdf)
+- [Minimum \(\ell\)-degree Turán spectra and finite forbidden subfamilies](https://github.com/Wenling-Zhou/Wenling-Zhou.github.io/blob/main/preprint/Minimum%20l-degree%20Turan%20spectra%20and%20finite%20forbidden%20subfamilies.pdf). Hao Lin, <strong>Wenling Zhou* </strong>.
 
-[Minimum (ell)-degree Tur'an spectra and finite forbidden subfamilies]([https://github.com/Wenling-Zhou/Wenling-Zhou.github.io/blob/main/preprint%20paper/Minimum%20l-degree%20Tur'an%20spectra%20and%20finite%20forbidden%20subfamilies.pdf](https://github.com/Wenling-Zhou/Wenling-Zhou.github.io/blob/main/preprint/Minimum%20l-degree%20Turan%20spectra%20and%20finite%20forbidden%20subfamilies.pdf))
