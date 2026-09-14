@@ -18,11 +18,11 @@
 
 4. [Large Rainbow Matchings in Edge-Colored Graphs with Given Average Color Degree](https://doi.org/10.1007/s00373-022-02551-6). <strong>Wenling Zhou*</strong>. <strong>Graphs and Combinatorics</strong> (2022).
 
-- Laihao Ding, Jie Han, Shumin Sun, Guanghui Wang and <strong>Wenling Zhou*</strong>. Tiling multipartite hypergraphs in quasi-random hypergraphs. <strong>Journal of Combinatorial Theory, Series B, 160: 36-65 (2023)</strong>. [[Paper]](https://doi.org/10.1016/j.jctb.2022.12.005)
+5. [Tiling multipartite hypergraphs in quasi-random hypergraphs](https://doi.org/10.1016/j.jctb.2022.12.005). Laihao Ding, Jie Han, Shumin Sun, Guanghui Wang and <strong>Wenling Zhou*</strong>. <strong>Journal of Combinatorial Theory, Series B</strong> (2023).
 
-- Yangyang Cheng, Yifan Jing, Lina Li, Guanghui Wang and <strong>Wenling Zhou*</strong>. Integer colorings with forbidden rainbow sums. <strong>Journal of Combinatorial Theory, Series A, 199: 105769 (2023)</strong>. [[Paper]](https://doi.org/10.1016/j.jcta.2023.105769)
+6. [Integer colorings with forbidden rainbow sums](https://doi.org/10.1016/j.jcta.2023.105769). Yangyang Cheng, Yifan Jing, Lina Li, Guanghui Wang and <strong>Wenling Zhou*</strong>. <strong>Journal of Combinatorial Theory, Series A</strong> (2023).
 
-- Tong Li, Yucong Tang, Guiying Yan and <strong>Wenling Zhou*</strong>. Rainbow Turán numbers of matchings and forests of hyperstars in uniform hypergraphs. <strong>Discrete Mathematics, 346(9): 113481 (2023)</strong>. [[Paper]](https://doi.org/10.1016/j.disc.2023.113481)
+7. [Rainbow Turán numbers of matchings and forests of hyperstars in uniform hypergraphs](https://doi.org/10.1016/j.disc.2023.113481). Tong Li, Yucong Tang, Guiying Yan and <strong>Wenling Zhou*</strong>. <strong>Discrete Mathematics </strong> (2023). 
 
 - <strong>Wenling Zhou</strong> and Binlong Li*. The Turán number of directed paths and oriented cycles. <strong>Graphs and Combinatorics, 39: 47 (2023)</strong>. [[Paper]](https://doi.org/10.1007/s00373-023-02647-7)
 
