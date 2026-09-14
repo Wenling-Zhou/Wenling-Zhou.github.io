@@ -10,7 +10,7 @@
 - Hao Lin, Guowei Sun, Guanghui Wang and <strong>Wenling Zhou* </strong>.  Uniform Tur\'an densities of -uniform hypergraphs.
   [[arXiv]](https://arxiv.org/abs/2605.15105)
 #### Published
-1. [A survey on rainbow matchings in graphs and hypergraphs](https://www.ort.shu.edu.cn/EN/Y2019/V23/I3/77). Tong Li, Guanghui Wang and <strong>Wenling Zhou*</strong>, <strong> Operations Research Transactions </strong> (2019).
+1. [A survey on rainbow matchings in graphs and hypergraphs](https://www.ort.shu.edu.cn/EN/Y2019/V23/I3/77). Tong Li, Guanghui Wang and <strong>Wenling Zhou*</strong>, <p style="color: rgb(34, 197, 94);"> Operations Research Transactions (2019)</p>.
 
 2. [Integer colorings with no rainbow $k$-term arithmetic progression](https://doi.org/10.1016/j.ejc.2022.103547). Hao Lin, Guanghui Wang and <strong>Wenling Zhou*</strong>, <strong>European Journal of Combinatorics</strong> (2022).
 
